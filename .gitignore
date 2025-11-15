@@ -35,3 +35,4 @@ data/screenshots/
 
 # Local tooling scripts
 vygil.py
+node_modules/
