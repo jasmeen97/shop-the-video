@@ -1,0 +1,10 @@
+language: python
+
+review:
+  enable_auto_review: true
+  auto_review_on:
+    - pull_request
+  depth: full
+
+chat:
+  auto_reply: true
